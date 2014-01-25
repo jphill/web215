@@ -1,0 +1,86 @@
+﻿
+
+
+body {
+	 background-color: #d8e5f2;
+	 color: #254b71; 
+	 font: Arial;}
+	 
+h1 {
+	background-color: #d8e5f2; 
+	color: #326597;
+	font: Courier;}
+	
+h2 {
+	background-color: #d8e5f2; 
+	color: #326597;
+	font: Courier;}
+	
+hr {
+	background-color: #d8e5f2;
+	color: #b1b1b1; }
+	
+ol {
+	list-style-type: none;
+	background-color: #f2f2d9;
+	color: #7da8d4;
+	width:150px;
+	}
+	
+.pullquote {
+	float: right;
+	clear: right;
+	width: 200px;
+	border: 1px solid black;
+	padding: 10px;
+	font-size: 20px;
+	background-color:#326597;
+	margin: 20px 0 10px 10px;
+	font-style: italic;
+	color: #FFF;
+}
+	
+#dashboard {
+	width: 150px;
+	background-color: silver;
+	padding: 20px 20px 0 20px;
+	position: absolute;
+	left: -162px;
+	z-index: 100;
+}
+#dashboard img {
+	margin-bottom: 20px;
+	border: 1px solid rgb(0,0,0);
+}
+
+#open {
+	margin: 0;
+	cursor: pointer;
+	padding: 5px 0 2px 30px;
+}
+	
+	
+a {
+	display: block;
+	margin: 0;
+	color: #326597;
+	background-color: #DAF1F7;
+	width: 150px;
+    text-align: center;
+	padding: 2px;
+	text-decoration: none;
+	border-radius: 8px;	
+}
+	
+nav {
+	font-weight: bold;
+	font-size:large;
+	display: inline-block;
+	background-color: #f2f2d9;
+	color: #7da8d4;
+	width: 200px;
+	}
+footer {
+	background-color: #d8e5f2;
+	 color: #254b71;
+}
